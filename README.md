@@ -8,6 +8,6 @@ POS tagging using Recurrent Neural Network for Malayalam language
 3. Output as POS tags.
 4. Two methods were used for unseen words - word similarity based function, words ending with similar letters.
 5. Relavant comments are avaiable in source code where necessary. 
-6. Output is available in op.txt in format ===> word : predicted pos : actual pos
+6. Output is available in op.txt in format ===> word : predicted pos : actual pos : unseen word?
 7. Project can be imported in eclipse directly.
 8. NLP_POS_RNN\src\com\pos\util\PosTagger.java contains executable code to run test on corpus.
