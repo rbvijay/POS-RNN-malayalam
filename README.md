@@ -11,3 +11,4 @@ POS tagging using Recurrent Neural Network for Malayalam language
 6. Output is available in op.txt in format ===> word : predicted pos : actual pos : unseen word?
 7. Project can be imported in eclipse directly. Code is written in Java (7)
 8. src\com\pos\util\PosTagger.java contains executable code to run test on corpus(main class).
+9. Test can be run using various other NN by changing PosTagger param to "elman" or "resilent".
